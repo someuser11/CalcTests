@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<expressions>
+  <expression actions = "3+5=" expectedResult = "8" />
+  <expression actions = "12-3=" expectedResult = "9" />
+  <expression actions = "96/53=" expectedResult = "1.811320754717" />
+  <expression actions = "96.3*21=" expectedResult = "2022.3" />
+</expressions>

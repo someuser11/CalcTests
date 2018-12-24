@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+  <element name = "Calc button 0" type = "xpath" value = "//*[@id='button_oprnl-412nl']" />
+  <element name = "Calc button 1" type = "xpath" value = "//*[@id='button_opr1-4121']" />
+  <element name = "Calc button 2" type = "xpath" value = "//*[@id='button_opr2-4122']" />
+  <element name = "Calc button 3" type = "xpath" value = "//*[@id='button_opr3-4123']" />
+  <element name = "Calc button 4" type = "xpath" value = "//*[@id='button_opr4-4124']" />
+  <element name = "Calc button 5" type = "xpath" value = "//*[@id='button_opr5-4125']" />
+  <element name = "Calc button 6" type = "xpath" value = "//*[@id='button_opr6-4126']" />
+  <element name = "Calc button 7" type = "xpath" value = "//*[@id='button_opr7-4127']" />
+  <element name = "Calc button 8" type = "xpath" value = "//*[@id='button_opr8-4128']" />
+  <element name = "Calc button 9" type = "xpath" value = "//*[@id='button_opr9-4129']" />
+  <element name = "Calc button ." type = "xpath" value = "//*[@id='button_oprtk-412tk']" />
+  <element name = "Calc button +" type = "xpath" value = "//*[@id='button_oprpl-412pl']" />
+  <element name = "Calc button -" type = "xpath" value = "//*[@id='button_oprmi-412mi']" />
+  <element name = "Calc button *" type = "xpath" value = "//*[@id='button_oprum-412um']" />
+  <element name = "Calc button /" type = "xpath" value = "//*[@id='button_oprde-412de']" />
+  <element name = "Calc button =" type = "xpath" value = "//*[@id='button_oprrv-412rv']" />
+  <element name = "Calc field result" type = "xpath" value = "//*[@id='result']" />
+</elements>
