@@ -10,3 +10,5 @@ Tests will use App.config file for parameter if parameters is missed in command 
 # Calc epressions
 Calc epressions as test parameters located in TestExpressions.xml.
 
+#TestExplorer
+![test_screenshot](https://user-images.githubusercontent.com/46107792/50403067-1daf1800-07b5-11e9-9470-97c1835aa69d.png)
