@@ -5,7 +5,7 @@ Test example
 Use NUnit Console Runner with command like:
 nunit3-console "D:\CalcTests\CalcTests\bin\Debug\CalcTests.dll" --params=DefaultWaitTimeout="60000";PageLocatorsDirectory="D:\CalcTests\CalcTests\Pages\XmlLocators";CalcExpressionPath="D:\CalcTests\CalcTests\TestExpressions.xml";ScreenshotDirectory="D:\CalcTests\Screenshots";Drivers="Chrome,Gecko"
 
-Tests will use App.config file for parameter if parameters is missed in command line.
+These tests will use 'App.config' file as parameters if there's no parameteres in the command line.
 
 # Calc epressions
 Calc epressions as test parameters located in TestExpressions.xml.
